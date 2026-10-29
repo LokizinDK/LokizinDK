@@ -34,14 +34,6 @@ Transformando curiosidade por tecnologia em projetos reais.
 
 </div>
 
-### 🚀 Projetos em desenvolvimento
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **EcoExploradores** | Projeto de aprendizagem e exploração com foco em mecânicas e experiência do usuário. | Em desenvolvimento |
-| **Lumeo** | Protótipo de rede social com feed, publicações e interface responsiva. | HTML, CSS, JavaScript |
-| **Lista de tarefas** | Aplicação com temas claro/escuro, armazenamento local e organização de tarefas. | HTML, CSS, JavaScript |
-
 > Estou aprendendo continuamente. Aqui compartilho meus experimentos, estudos e a evolução dos meus projetos.
 
 ### 📚 Atualmente estudando
